@@ -1,1 +1,2 @@
+int num = 10;
 System.debug('welcome');
